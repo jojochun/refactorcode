@@ -6,7 +6,7 @@
 To take existing code for a website that offers marketing services and make it better by making it
 meet accessibility standards and by also using semantic HTML elements, making all links function 
 properly, and consolidating CSS properties and selectors.
- @https://github.com/jojochun/refactorcode
+https://jojochun.github.io/refactorcode/
 
 ## Built With:
 HTML
