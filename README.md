@@ -4,7 +4,7 @@
 
 ## Purpose
 A website that offers marketing services.
- @ https://lernantino.github.io/run-buddy/
+ @https://github.com/jojochun/refactorcode
 
 ## Built With:
 HTML
