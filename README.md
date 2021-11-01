@@ -1,6 +1,6 @@
 # Refactor code for Horiseon
 
-# Horeseon
+# Horiseon
 
 ## Purpose
 A website that offers marketing services.
